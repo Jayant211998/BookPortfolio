@@ -1,0 +1,86 @@
+.frontPage-content{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 10px 10px 10px;
+}
+.education{
+  padding: "10px";
+  width: "100%";
+  display: "flex",
+}
+.frontPage-content-text{}
+
+.timeline{
+  margin: 20px 0;
+  @media(min-width: 1441px){
+    margin: 40px 0;
+  }
+}
+.vertical-timeline-element-content .vertical-timeline-element-date{
+    padding: 0.8em 0 0;
+}
+
+.backPage-container{
+  padding: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+}
+
+.project-description1{
+  height: 370px;
+  @media(min-width: 1441px){
+    font-size: 30px;
+    height: 650px;
+    padding: 15px;
+    line-height: 2.5rem;
+    width: 720px;
+  }
+}
+.box{
+  height: 70px
+}
+
+
+.vertical-timeline.animate-timeline .vertical-timeline-element-0 {
+  opacity: 1;
+  transform: translateX(0);
+  transition: all 0.1s ease-in-out;
+}
+
+.vertical-timeline.animate-timeline .vertical-timeline-element-1 {
+  opacity: 1;
+  transform: translateX(0);
+  transition: all 0.4s ease-in-out;
+}
+
+.vertical-timeline.animate-timeline .vertical-timeline-element-2 {
+  opacity: 1;
+  transform: translateX(0);
+  transition: all 0.7s ease-in-out;
+}
+
+.vertical-timeline.animate-timeline1 .vertical-timeline-element-0 {
+  opacity: 0;
+  transform: translateX(500px);
+}
+.vertical-timeline.animate-timeline1 .vertical-timeline-element-1 {
+  opacity: 0;
+  transform: translateX(500px);
+}
+.vertical-timeline.animate-timeline1 .vertical-timeline-element-2 {
+  opacity: 0;
+  transform: translateX(500px);
+}
+
+.linkbox{
+  text-align: left;
+  padding: 0 20px;
+}

@@ -1,0 +1,42 @@
+{
+    "experience": [
+        {
+            "id": 1,
+            "company": "Softops",
+            "duration": "Feb 2024 - Oct 2024",
+            "position": "Associate Software Engineer",
+            "description" : [
+                "MDC: Worked on mobile responsiveness and login sign up flow.",
+                "Pet Hotel: Worked on pet per room, map integration and day care service flows."
+            ]
+        },
+        {
+            "id": 2,
+            "company": "TCS",
+            "duration": "Aug 2021 - Jan 2024",
+            "position": "Systems Engineer",
+            "description" : [
+                "Learning Module: Used React, Node and Postgres also worked on react cookies.",
+                "App Connect: Worked on creating data flows by connecting API endpoints of different applications."
+            ]
+        },
+        {
+            "id": 3,
+            "company": "Consultadd",
+            "duration": "Jan 2021 - May 2021",
+            "position": "Associate Software Engineer Intern",
+            "description" : [
+                "ELK: Learned about Elasticsearch, Logstash and Kibana also created an AWS cluster for same."
+            ]
+        },
+        {
+            "id": 4,
+            "company": "IBM Industrial Training",
+            "duration": "June 2020",
+            "position": "Trainee",
+            "description" : [
+                "Worked on Data Science project for Car evaluation."
+            ]
+        }
+    ]
+}

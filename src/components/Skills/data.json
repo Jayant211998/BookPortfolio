@@ -1,0 +1,62 @@
+{ "DATA": [
+    {
+      "id": 0,
+      "name": "React",
+      "percentage": "90"
+    },
+    {
+      "id": 1,
+      "name": "Node.js",
+      "percentage": "85"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript",
+      "percentage": "90"
+    },
+    {
+      "id": 3,
+      "name": "Python",
+      "percentage": "70"
+    },
+    {
+      "id": 4,
+      "name": "SQL",
+      "percentage": "70"
+    },
+    {
+      "id": 5,
+      "name": "Firebase",
+      "percentage": "80"
+    },
+    {
+      "id": 6,
+      "name": "Redux",
+      "percentage": "90"
+    },
+    {
+      "id": 7,
+      "name": "MongoDB",
+      "percentage": "75"
+    },
+    {
+      "id": 8,
+      "name": "TypeScript",
+      "percentage": "90"
+    },
+    {
+      "id": 9,
+      "name": "C++",
+      "percentage": "85"
+    },
+    {
+      "id": 10,
+      "name": "Data Structures",
+      "percentage": "70"
+    },
+    {
+      "id": 11,
+      "name": "Algorithms",
+      "percentage": "70"
+    }
+  ]}

@@ -1,0 +1,141 @@
+.page-back{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: space-between;
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+}
+.link{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    @media(min-width: 1441px){
+        height: 60px;
+        width: 60px;
+    }
+}
+.icon-link{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    background-color: rgb(255, 208, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @media(min-width: 1441px){
+        height: 60px;
+        width: 60px;
+    }
+}
+.icon{
+    color: black;
+}
+.links{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.page-back-content{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.message{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px 10px 50px 10px;
+    @media(min-width: 1441px){
+        font-size: 28px;
+        line-height: 2.5rem;
+    }
+}
+.button-box{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.frontpage-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+.project-heading{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+.my-projects-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    overflow-y: scroll;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.project-block {
+    width: 150px;
+    height: 150px;
+}
+.project-img{
+    width: 170px;
+    height: 170px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 208, 0);
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    @media(min-width: 1441px){
+        width: 220px;
+        height: 220px;
+    }
+}
+.frontpage-content{
+    width: 100%;
+}
+
+.project-section{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px 20px;
+    overflow-y: scroll;
+    height: 400px;
+    justify-content: space-evenly;
+    @media(min-width: 1441px){
+        height: 700px;
+        gap: 100px 100px;
+        padding: 20px;
+    }
+}

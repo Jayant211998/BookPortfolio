@@ -1,0 +1,52 @@
+#about{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+}
+.container {
+    padding-left: 20px;
+}
+
+.content{
+    text-align: start;
+}
+
+.MuiSvgIcon-root{
+    color: rgb(255, 208, 0);
+}
+
+
+@media (max-width: 559px) {
+    .experience{
+        display: block;
+        justify-content: space-between;
+    }
+    .company{
+        border-radius: 1rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: left;
+        align-items: center;
+        width: 70vw;
+        background-color: rgb(40,40,40);
+        margin: 0.5rem;
+        padding: 1rem;
+    }
+    h1 {
+      font-size: 20px;
+    }
+    
+    p {
+      font-size: 14px;
+    }
+    .displayGrid {
+        display: "block"
+    }
+  }
+  

@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "link": "https://traveljournal-frontend.web.app/",
+            "name": "Travel Journal",
+            "description": "This is a Fullstack application made using React, Node, Firestore database, Firebase Storage, Firebase Hosting, and Heroku hosting. This is the frontend part of the application. The backend code is available at https://github.com/Jayant211998/TravelJournal-Backend. This app allows users to share travel experiences with place names, locations, travel dates, descriptions, and photos. There are two types of access: Admin and User. Only Admin users can add, edit, or delete travel experiences. Users can also update their name and profile picture. Check out the app here: https://traveljournal-frontend.web.app/",
+            "git": "https://github.com/Jayant211998/TravelJournal-Frontend"
+        },
+        {
+            "id": 2,
+            "link": "https://food-order-app-433bf.web.app/",
+            "name": "Food Order App",
+            "description": "This is a simple React single-page application that displays a menu of food items. Users can add items to their cart with the desired quantity by clicking the 'Add' button. The 'Your Cart' button displays the selected items, allowing users to modify or remove them. Check out the app here: https://food-order-app-433bf.web.app/",
+            "git": "https://github.com/Jayant211998/Food-Order-App"
+        },
+        {
+            "id": 3,
+            "link": "https://color-code-app.web.app/",
+            "name": "Color Code App",
+            "description": "This React-based application lets users set color codes in HEX format to view the corresponding color in the background. The app uses a CSV file as a dictionary for color names and codes, allowing users to search for basic colors and customize HEX codes. Clicking 'Get Color' retrieves the color name if it exists in the CSV file. Otherwise, it shows 'No color name.' Check out the app here: https://color-code-app.web.app/",
+            "git": "https://github.com/Jayant211998/Color-Code-App"
+        },
+        {
+            "id": 4,
+            "link": "https://tenzies-game-51037.web.app/",
+            "name": "Tenzies Game",
+            "description": "This React-based quiz application fetches questions from https://opentdb.com/api.php. Users answer a set of five questions, and upon submission, the correct answers are highlighted in green, while incorrect answers are marked in red. Users can view their score on a separate page. Check out the app here: https://tenzies-game-51037.web.app/",
+            "git": "https://github.com/Jayant211998/Tenzies-Game"
+        },
+        {
+            "id": 5,
+            "link": "https://github.com/Jayant211998/HandGestureRecognition/",
+            "name": "Hand Gesture Recognition",
+            "description": "This is a simple system that detects hand gestures, recognizes them, and sends commands to VLC Player based on the gesture. The recognition is powered by a machine learning model using CNN.",
+            "git": "https://github.com/Jayant211998/HandGestureRecognition/"
+        },
+        {
+            "id": 6,
+            "link": "https://github.com/Jayant211998/ReduxProject/",
+            "name": "Redux Project",
+            "description": "A simple React app demonstrating the usage of Redux and React-Redux.",
+            "git": "https://github.com/Jayant211998/ReduxProject/"
+        },
+        {
+            "id": 7,
+            "link": "https://github.com/Jayant211998/TicTacToe/",
+            "name": "Tic-Tac-Toe",
+            "description": "This is a Tic-Tac-Toe game developed in Python, where you can play against a friend or the computer.",
+            "git": "https://github.com/Jayant211998/TicTacToe/"
+        },
+        {
+            "id": 8,
+            "link": "https://github.com/Jayant211998/voice-assistant/",
+            "name": "Voice-Assistant",
+            "description": "A simple voice assistant project (JARVIS) that performs basic computer operations via voice commands and responds accordingly.",
+            "git": "https://github.com/Jayant211998/voice-assistant/"
+        }
+    ]
+}
